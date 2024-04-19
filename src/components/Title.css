@@ -1,0 +1,19 @@
+
+/* bigshot one font */
+@import url(https://fonts.googleapis.com/css?family=Cabin+Condensed);
+
+
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Lilita+One&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+svg {
+    max-width: 100vh;
+    height: 100%;
+    margin-top: 25vh;
+    
+  }
+  text{
+    font-size: 5vh;
+  }
+  
+ 
